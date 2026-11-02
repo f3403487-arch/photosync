@@ -11,3 +11,5 @@ android/app/build/
 *.apk
 __pycache__/
 *.pyc
+android/keystore.properties
+*.jks

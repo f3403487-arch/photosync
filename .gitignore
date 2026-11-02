@@ -1,0 +1,13 @@
+# личные коды и ключи шифрования
+pc/photosync_config.json
+pc/sender_config.json
+pc/clawd_pc.json
+
+# сборка
+android/local.properties
+android/.gradle/
+android/build/
+android/app/build/
+*.apk
+__pycache__/
+*.pyc
